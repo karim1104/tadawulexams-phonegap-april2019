@@ -1,7 +1,7 @@
 {
     "app_id": "com.moodle.cisionline",
-    "appname": "Tadawul Exams",
-    "desktopappname": "Tadawul Exams",
+    "appname": "Moodle Mobile",
+    "desktopappname": "Moodle Desktop",
     "versioncode": 3610,
     "versionname": "3.6.1",
     "cache_expiration_time": 300000,
