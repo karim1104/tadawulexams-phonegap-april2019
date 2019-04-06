@@ -54,7 +54,12 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "demo_sites": {
-
+        "student": {
+         
+        },
+        "teacher": {
+           
+        }
     },
     "customurlscheme": "moodlemobile",
     "siteurl": "",
