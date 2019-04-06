@@ -6,14 +6,14 @@
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>Moodle</name>
+    <name>Tadawul Exams</name>
 
     <description>
-        Moodle official app
+        Tadawul Exams official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+     <author href="https://www.TadawulExams.com" email="admin@tadawul.academy">
+        Tadawul Academy FZE
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
