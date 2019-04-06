@@ -55,10 +55,14 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-         
+            "url": "https:\/\/www.tadawulexams.com",
+            "username": "",
+            "password": ""
         },
         "teacher": {
-           
+            "url": "https:\/\/www.tadawulexams.com",
+            "username": "",
+            "password": ""
         }
     },
     "customurlscheme": "moodlemobile",
